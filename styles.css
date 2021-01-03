@@ -33,6 +33,7 @@ textarea {
     margin-top: 2rem;
     font-size: large;
     font-family: inherit;
+    padding-left: 0.5rem;
 }
 
 button {
