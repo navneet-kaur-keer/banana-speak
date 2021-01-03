@@ -1,2 +1,2 @@
 # banana-speak
- Introduction to JavaScript
+Translates English to Banana (Minion's Language)
