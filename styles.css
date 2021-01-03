@@ -25,6 +25,16 @@ main {
     max-width: var(--width-break);
 }
 
+textarea {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-height: 20vh;
+    margin-top: 2rem;
+    font-size: large;
+    font-family: inherit;
+}
+
 button {
     background-color: var(--primary);
     border: none;
